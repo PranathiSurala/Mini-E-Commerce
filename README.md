@@ -1,6 +1,6 @@
-# 🛒 Mini-E-Commerce
+# 🛒 Mini Mart
 
-Welcome to **Mini E-Commerce** – a simple, clean, and interactive online shopping website built using **HTML**, **CSS**, and **JavaScript**. It’s a fully responsive web page where users can browse products, filter by category, and manage their cart seamlessly — all without any backend!
+Welcome to **Mini Mart** – a simple, clean, and interactive online shopping website built using **HTML**, **CSS**, and **JavaScript**. It’s a fully responsive web page where users can browse products, filter by category, and manage their cart seamlessly — all without any backend!
 
 ---
 
