@@ -15,19 +15,6 @@ Welcome to **Mini E-Commerce** – a simple, clean, and interactive online shopp
 
 ---
 
-## 📂 Folder Structure
-
-Mini-E-Commerce/
-│
-├── images/ # Product images
-│ ├── tshirt.png
-│ ├── laptop.png
-│ └── ...more
-│
-├── Mini E-Commerce.html # Main HTML file
-└── README.md # You're here!
----
-
 ## 🧩 Categories Included
 
 - 👚 Clothing (T-Shirts, Jeans)
