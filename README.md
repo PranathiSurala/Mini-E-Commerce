@@ -57,8 +57,7 @@ Try resizing your browser or opening it on your phone 📱
 - Real-time updates using event-driven programming
 - How to use `localStorage` effectively
 - Writing modular and clean HTML/CSS
-- Responsive layouts with Flexbox and media queries
-
+- 
 ---
 
 ## ✨ Author
