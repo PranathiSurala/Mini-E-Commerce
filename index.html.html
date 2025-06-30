@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mini E-Commerce</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Mini E-Commerce</h1>
+
+  <div class="filters">
+    <label for="category">Filter by Category:</label>
+    <select id="category" onchange="filterProducts()">
+      <option value="all">All</option>
+      <option value="clothing">Clothing</option>
+      <option value="accessories">Accessories</option>
+      <option value="footwear">Footwear</option>
+      <option value="electronics">Electronics</option>
+      <option value="home">Home</option>
+      <option value="beauty">Beauty</option>
+    </select>
+  </div>
+
+  <section class="products" id="products"></section>
+
+  <h2>Your Cart</h2>
+  <section class="cart" id="cart"></section>
+
+  <div class="cart-summary">
+    <h3>Cart Summary</h3>
+    <p>Total Items: <span id="total-items">0</span></p>
+    <p>Total Price: $<span id="total-price">0.00</span></p>
+    <button onclick="clearCart()">Clear Cart</button>
+    <button onclick="checkout()">Proceed to Checkout</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
